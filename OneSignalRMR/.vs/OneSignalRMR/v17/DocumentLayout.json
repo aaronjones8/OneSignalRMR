@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\MAUI\\OneSignalRMR\\OneSignalRMR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5553011-B020-4542-B75E-7772E5634E4B}|..\\OneSignalRMRNotificationServiceExtension\\OneSignalRMRNotificationServiceExtension.csproj|c:\\code\\maui\\onesignalrmr\\onesignalrmrnotificationserviceextension\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C1F9A4-4989-4AA6-A7AC-BAA5AD68FBCD}|OneSignalRMR.csproj|c:\\code\\maui\\onesignalrmr\\onesignalrmr\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C1F9A4-4989-4AA6-A7AC-BAA5AD68FBCD}|OneSignalRMR.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C1F9A4-4989-4AA6-A7AC-BAA5AD68FBCD}|OneSignalRMR.csproj|c:\\code\\maui\\onesignalrmr\\onesignalrmr\\onesignalrmr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5C1F9A4-4989-4AA6-A7AC-BAA5AD68FBCD}|OneSignalRMR.csproj|solutionrelative:onesignalrmr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Code\\MAUI\\OneSignalRMR\\OneSignalRMRNotificationServiceExtension\\NotificationService.cs",
+              "RelativeDocumentMoniker": "..\\OneSignalRMRNotificationServiceExtension\\NotificationService.cs",
+              "ToolTip": "C:\\Code\\MAUI\\OneSignalRMR\\OneSignalRMRNotificationServiceExtension\\NotificationService.cs",
+              "RelativeToolTip": "..\\OneSignalRMRNotificationServiceExtension\\NotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:51:43.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Code\\MAUI\\OneSignalRMR\\OneSignalRMR\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Code\\MAUI\\OneSignalRMR\\OneSignalRMR\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:51:12.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OneSignalRMR",
+              "DocumentMoniker": "C:\\Code\\MAUI\\OneSignalRMR\\OneSignalRMR\\OneSignalRMR.csproj",
+              "RelativeDocumentMoniker": "OneSignalRMR.csproj",
+              "ToolTip": "C:\\Code\\MAUI\\OneSignalRMR\\OneSignalRMR\\OneSignalRMR.csproj",
+              "RelativeToolTip": "OneSignalRMR.csproj",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T20:50:10.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
